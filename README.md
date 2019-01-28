@@ -34,7 +34,7 @@ I want to just talk a little about what we will be writing tests for and what we
 So, we won't be wanting to write tests that would check the validity of an end-to-end process, you’d probably call those integration tests. But it's not part of test-driven development, and we're not going to be needing those in this repository. 
 We're going to have multiple tests for a single piece of logic. Each will be testing different scenarios that are meted to make up this logic. So, each test should test one piece of logic only and in fact a single scenario for that piece of logic. The idea is that by creating a suite of tests, testing different scenarios, then we'll test all the likely different combinations of logic. 
 
-###The case study
+### The case study
 
 Let's imagine that we've been given the task to write some code, which we'll check that an ISBN number is valid for a given conference paper published in ACM community. If you've not come across ISBN numbers before, it stands for international standard book number and these are the numbers that you find on the barcode on all books. The final digit of each ISBN number is a check digit. This means that you can calculate what the final digit should be from the other numbers that make up the barcode. Because of this, if any single digit is wrong, it's not a valid ISBN.
  
