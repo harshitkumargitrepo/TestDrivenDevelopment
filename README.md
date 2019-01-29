@@ -57,4 +57,7 @@ ISBN 13 digit number
 https://dl.acm.org/citation.cfm?id=3226207
 ISBN: 978-1-4503-5784-5
 
+Both 10 and 13 digit ISBN
+https://dl.acm.org/citation.cfm?id=1941884
+ISBN:0387858199 9780387858197
 
