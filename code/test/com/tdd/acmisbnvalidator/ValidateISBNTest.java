@@ -6,6 +6,9 @@ import org.junit.Test;
 
 public class ValidateISBNTest {
 
+	/**
+	 * Testing fail condition
+	 */
 	@Test
 	public void test() {
 		fail("Not yet implemented");
