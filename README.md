@@ -47,3 +47,14 @@ Let's imagine that we've been given the task to write some code, which we'll che
  
  
 For example, 978-1-4503-5784-5 is a valid ISBN number, but if we change one digit, for example, the nine to a seven, then it becomes an invalid ISBN number. For this to be valid, the final digit would also have to change. So, we want to write some code that will take a full ISBN number, including it's check digit, and would indicate whether or not this is a valid ISBN number. Now if you want to look up what the rules are as to how to validate an ISBN number, then a good place to start would be with the Wikipedia page. We'll do a complete work through of the logic, and I'll explain that logic to you step by step. 
+
+
+ISBN 10 digit number
+Ex: https://dl.acm.org/citation.cfm?id=223929
+ISBN:0-201-84705-1
+
+ISBN 13 digit number
+https://dl.acm.org/citation.cfm?id=3226207
+ISBN: 978-1-4503-5784-5
+
+
