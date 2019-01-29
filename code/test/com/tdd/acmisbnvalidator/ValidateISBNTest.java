@@ -7,11 +7,11 @@ import org.junit.Test;
 public class ValidateISBNTest {
 
 	/**
-	 * Testing fail condition
+	 * Testing green condition
 	 */
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		//fail("Not yet implemented");
 	}
 
 }
