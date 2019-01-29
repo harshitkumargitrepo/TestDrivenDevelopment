@@ -10,5 +10,5 @@ public class ValidateISBNTest {
 		boolean isValidISBN = validator.checkISBN(201847051);
 		assertTrue(isValidISBN);
 	}
-
 }
+
