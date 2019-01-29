@@ -6,4 +6,5 @@
  *
  */
 module acmISBNValidator {
+	requires junit;
 }
