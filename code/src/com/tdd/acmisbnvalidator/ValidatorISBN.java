@@ -1,4 +1,4 @@
-package com.tdd.acmISBNValidator;
+package com.tdd.acmisbnvalidator;
 
 public class ValidatorISBN {
 
